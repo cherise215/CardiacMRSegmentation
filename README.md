@@ -18,6 +18,7 @@ Please cite our work if you find this code useful.
 
 
 @ARTICLE{Chen2020-gz,
+
   title         = "Improving the Generalizability of Convolutional Neural
                    {Network-Based} Segmentation on {CMR} Images",
        
@@ -40,6 +41,7 @@ Please cite our work if you find this code useful.
 }
 
 @INPROCEEDINGS{Chen2020-ne,
+
   title     = "Realistic Adversarial Data Augmentation for {MR} Image
                Segmentation",
                
